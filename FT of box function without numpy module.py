@@ -1,4 +1,4 @@
-''' Problem 9 without numpy module
+''' 
 making FT of BOX function
 Name: SAGAR DAM; DNAP'''
 
